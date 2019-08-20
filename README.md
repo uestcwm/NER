@@ -1,4 +1,4 @@
-# NER-HMM-
+# NER
 基于大佬的python2改的python3的代码
 
 内容请去看大佬的原博
